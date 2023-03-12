@@ -1,0 +1,8 @@
+{
+    "givenName": "John",
+    "sureName": "Doe",
+    "company": "Company XYZ",
+    "phone": "90990990",
+    "email": "john.doe@gmail.com",
+    "password": "123456"
+}
